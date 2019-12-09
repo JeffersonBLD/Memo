@@ -6,7 +6,6 @@
 
 <?php 
 
-//Esté codigo será el primero manejado con github
 function accion(){
 	$i=0;
 	$archivo=fopen("info.txt",'r')
@@ -31,6 +30,6 @@ function accion(){
 ?>
 
 </body>
-<a href='memo.php?hello=true'>Generar</a>
+<a href='memo.php?hello=true'>Generar Convinacion</a>
 </html>
 
