@@ -2,7 +2,7 @@
 <html>
 <body>
 
-<p id="demo">Demostración RAPIDA</p>
+<p id="demo">Demostración</p>
 
 <?php 
 
