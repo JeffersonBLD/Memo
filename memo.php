@@ -21,8 +21,6 @@ function accion(){
 		echo $arreglo[0][$j]." = ".$arreglo[$numero][$j];
 		echo '<hr>';
 	}
-
-
 }
   if (isset($_GET['hello'])) {
     accion();
@@ -33,3 +31,4 @@ function accion(){
 <a href='memo.php?hello=true'>Generar Convinacion</a>
 </html>
 
+<!---Este es el primer codigo tratado con git--->
