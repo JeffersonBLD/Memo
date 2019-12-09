@@ -1,0 +1,24 @@
+Convinaciones: 	antes	imagen	despues
+AB	pica	Abeja	Molesta
+AC	Capucha	Assassin´s 	Corre
+AC	granos	Acne (elmer)	Estripa
+AD	alfombra	aladin	frotar
+AE	Cabello fuego	Ares	poder
+AF	Afro	peludo	Afeitandose
+AG	Camisa	Abuelo Gohan	picante (saca lengua)
+AH	Ralla	jam	alcancia (alzar)
+AI	Traje	iroman	luz
+AJ	Cae ojo	Aj	Saco A
+AK	Amaca	Akali	Ak 47 (cargar)
+AL	Risa	Alejo	Alejarse
+AM	Corazon	America (diablo)	Ojos (chavo)
+AN	Anillo	Android	dispara brazo
+AO	escupe fuego	Aochi	montar
+AP	boso(cantinflas)	Apu	apolo (estatua)
+AQ	akira(Bufanda)	Akira	Acostarse
+AR	aro de fuego	Araña	Aristoteles (filosofar)
+AS	Asintota	chino (asia)	aspirar
+AT	atl nacional	Atun	nalga (mocus)
+AU	erida	Auronplay	lobo
+AV	pasajero	avion	manos
+AW	aguacate	teorema(chile)	tierno (gato shrek)
